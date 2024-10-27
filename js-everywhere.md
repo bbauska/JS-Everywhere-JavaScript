@@ -1,4 +1,4 @@
-![Cover](./images/media/cover.png){width="8.5in" height="11.0in"}
+![Cover](./images/cover.png){width="8.5in" height="11.0in"}
 
 # Table of Contents
 
@@ -1582,7 +1582,7 @@ a browser window to *http://localhost:4000* and see the result in
 
 []{#Figure_3_1__The_results_of_our_H .anchor}![The results of our Hello
 World server code in the
-browser](./images/media/jsev_0301.png){width="6.166666666666667in"
+browser](./images/jsev_0301.png){width="6.166666666666667in"
 height="5.125in"}
 
 #### Figure 3-1. The results of our Hello World server code in the browser
@@ -2242,7 +2242,7 @@ created documentation for the API.
 
 []{#Figure_4_1__The_GraphQL_Playgrou .anchor}![A screenshot of the
 GraphQL
-Playground](./images/media/jsev_0401.png){width="6.166666666666667in"
+Playground](./images/jsev_0401.png){width="6.166666666666667in"
 height="6.555555555555555in"}
 
 #### Figure 4-1. The GraphQL Playground
@@ -2289,7 +2289,7 @@ When you click the Play button, the query should return the following
 }
 
 []{#Figure_4_2__The_hello_query .anchor}![The hello query in the GraphQL
-Playground](./images/media/jsev_0402.png){width="6.166666666666667in"
+Playground](./images/jsev_0402.png){width="6.166666666666667in"
 height="6.055555555555555in"}
 
 #### Figure 4-2. The hello query
@@ -2684,7 +2684,7 @@ returned, which contains the data array ([Figure
 4-3](#Figure_4_3__The_notes_query)).
 
 []{#Figure_4_3__The_notes_query .anchor}![The notes query in the GraphQL
-Playground](./images/media/jsev_0403.png){width="6.166666666666667in"
+Playground](./images/jsev_0403.png){width="6.166666666666667in"
 height="7.083333333333333in"}
 
 #### Figure 4-3. The notes query
@@ -2698,7 +2698,7 @@ request and limit that data to exactly what is required ([Figure
 
 []{#Figure_4_4__A_notes_query_with_o .anchor}![A note query with only
 content data requested in the GraphQL
-Playground](./images/media/jsev_0404.png){width="6.166666666666667in"
+Playground](./images/jsev_0404.png){width="6.166666666666667in"
 height="7.069444444444445in"}
 
 #### Figure 4-4. A notes query with only content data requested
@@ -5130,7 +5130,7 @@ data to our database ([Figure 5-1](#Figure_5_1__A_notes_query)):
 }
 
 []{#Figure_5_1__A_notes_query .anchor}![A notes query in the GraphQL
-Playground](./images/media/jsev_0501.png){width="6.166666666666667in"
+Playground](./images/jsev_0501.png){width="6.166666666666667in"
 height="4.763888888888889in"}
 
 #### Figure 5-1. A notes query
@@ -5226,7 +5226,7 @@ MongoDB-generated ID ([Figure 5-2](#Figure_5_2__A_mutation_creates_a)).
 
 []{#Figure_5_2__A_mutation_creates_a .anchor}![A new note mutation in
 the GraphQL
-Playground](./images/media/jsev_0502.png){width="6.166666666666667in"
+Playground](./images/jsev_0502.png){width="6.166666666666667in"
 height="4.347222222222222in"}
 
 #### Figure 5-2. A mutation creates a new note in the database
@@ -5236,7 +5236,7 @@ the database! (See [Figure 5-3](#Figure_5_3__Our_notes_query_retu).)
 
 []{#Figure_5_3__Our_notes_query_retu .anchor}![The notes query with data
 in the
-GraphQLPlayground](./images/media/jsev_0503.png){width="6.166666666666667in"
+GraphQLPlayground](./images/jsev_0503.png){width="6.166666666666667in"
 height="4.277777777777778in"}
 
 #### Figure 5-3. Our notes query returns the data from the database
@@ -5320,7 +5320,7 @@ sure to copy an ID from your own query or mutation results.
 
 []{#Figure_5_4__A_query_for_an_indiv .anchor}![A query for an individual
 note in the GraphQL
-Playground](./images/media/jsev_0504.png){width="6.166666666666667in"
+Playground](./images/jsev_0504.png){width="6.166666666666667in"
 height="4.597222222222222in"}
 
 #### Figure 5-4. A query for an individual note
@@ -7058,7 +7058,7 @@ type states that it is a "date-time string at UTC."
 
 []{#Figure_6_1__Our_schema_now_featu .anchor}![The DateTime type as
 shown in GraphQL
-Playground](./images/media/jsev_0601.png){width="6.166666666666667in"
+Playground](./images/jsev_0601.png){width="6.166666666666667in"
 height="4.819444444444445in"}
 
 #### Figure 6-1. Our schema now features DateTime types
@@ -8262,7 +8262,7 @@ When we run the mutation, our server will return a token like this
 
 []{#Figure_7_1__The_signUp_mutation .anchor}![A screenshot of the signUp
 mutation in the GraphQL
-Playground](./images/media/jsev_0701.png){width="6.166666666666667in"
+Playground](./images/jsev_0701.png){width="6.166666666666667in"
 height="4.416666666666667in"}
 
 #### Figure 7-1. The signUp mutation in the GraphQL Playground
@@ -8537,7 +8537,7 @@ Again, if successful, our mutation should resolve with a JWT ([Figure
 
 []{#Figure_7_2__The_signIn_mutation .anchor}![A screenshot of the signIn
 mutation in the GraphQL
-Playground](./images/media/jsev_0702.png){width="6.166666666666667in"
+Playground](./images/jsev_0702.png){width="6.166666666666667in"
 height="3.986111111111111in"}
 
 #### Figure 7-2. The signIn mutation in the GraphQL Playground
@@ -8779,7 +8779,7 @@ returned in either our signUp or signIn mutation as follows ([Figure
 
 []{#Figure_7_3__The_authorization_he .anchor}![A screenshot of the
 authorization header in the GraphQL
-Playground](./images/media/jsev_0703.png){width="6.166666666666667in"
+Playground](./images/jsev_0703.png){width="6.166666666666667in"
 height="1.8055555555555556in"}
 
 #### Figure 7-3. The authorization header in the GraphQL Playground
@@ -8808,7 +8808,7 @@ id\
 
 []{#Figure_7_4__The_authorization_he .anchor}![A screenshot of the
 authorization header and a query in the GraphQL
-Playground](./images/media/jsev_0704.png){width="6.166666666666667in"
+Playground](./images/jsev_0704.png){width="6.166666666666667in"
 height="7.069444444444445in"}
 
 #### Figure 7-4. The authorization header and query in the GraphQL Playground
@@ -8819,7 +8819,7 @@ the user's ID logged to our terminal application's output, as shown in
 
 []{#Figure_7_5__The_user_object_in_o .anchor}![A screenshot of the user
 object in the development
-console](./images/media/jsev_0705.png){width="6.166666666666667in"
+console](./images/jsev_0705.png){width="6.166666666666667in"
 height="2.6805555555555554in"}
 
 #### Figure 7-5. The user object in our terminal's console.log output
@@ -9103,7 +9103,7 @@ retrieve one.
 
 []{#Figure_8_1__A_newNote_mutation_i .anchor}![Screenshot of the newNote
 mutation in the GraphQL
-Playground](./images/media/jsev_0801.png){width="6.166666666666667in"
+Playground](./images/jsev_0801.png){width="6.166666666666667in"
 height="7.333333333333333in"}
 
 #### Figure 8-1. A newNote mutation in the GraphQL Playground
@@ -9750,7 +9750,7 @@ values for the specified user ([Figure
 
 []{#Figure_8_2__The_user_query_in_th .anchor}![A screenshot of the user
 query in the GraphQL
-Playground](./images/media/jsev_0802.png){width="6.166666666666667in"
+Playground](./images/jsev_0802.png){width="6.166666666666667in"
 height="4.013888888888889in"}
 
 #### Figure 8-2. The user query in the GraphQL Playground
@@ -9784,7 +9784,7 @@ id\
 
 []{#Figure_8_3__The_users_query_in_G .anchor}![A screenshot of the users
 query in the GraphQL
-Playground](./images/media/jsev_0803.png){width="6.166666666666667in"
+Playground](./images/jsev_0803.png){width="6.166666666666667in"
 height="6.708333333333333in"}
 
 #### Figure 8-3. The users query in GraphQL Playground
@@ -9833,7 +9833,7 @@ id\
 
 []{#Figure_8_4__The_me_query_in_Grap .anchor}![A screenshot of the me
 query in the GraphQL
-Playground](./images/media/jsev_0804.png){width="6.166666666666667in"
+Playground](./images/jsev_0804.png){width="6.166666666666667in"
 height="6.847222222222222in"}
 
 #### Figure 8-4. The me query in GraphQL Playground
@@ -10421,7 +10421,7 @@ id\
 
 []{#Figure_8_5__A_newNote_mutation .anchor}![A screenshote of a newNote
 mutation in the GraphQL
-Playground](./images/media/jsev_0805.png){width="6.166666666666667in"
+Playground](./images/jsev_0805.png){width="6.166666666666667in"
 height="7.069444444444445in"}
 
 #### Figure 8-5. A newNote mutation
@@ -10461,7 +10461,7 @@ should be 1. If you rerun the mutation, the favoriteCount will reduce to
 
 []{#Figure_8_6__The_toggleFavorite_m .anchor}![A screenshot of the
 toggleFavorite mutation in the GraphQL
-Playground](./images/media/jsev_0806.png){width="6.166666666666667in"
+Playground](./images/jsev_0806.png){width="6.166666666666667in"
 height="7.138888888888889in"}
 
 #### Figure 8-6. The toggleFavorite mutation
@@ -11859,7 +11859,7 @@ minutes for Mongo to set up the database ([Figure
 
 []{#Figure_10_1__The_MongoDB_Atlas_d .anchor}![A screenshot of the
 default MongoDB Atlas new database
-settings](./images/media/jsev_1001.png){width="3.5833333333333335in"
+settings](./images/jsev_1001.png){width="3.5833333333333335in"
 height="9.0in"}
 
 #### Figure 10-1. The MongoDB Atlas database creation screen
@@ -11869,7 +11869,7 @@ database cluster ([Figure 10-2](#Figure_10_2__MongoDB_Atlas_Clust)).
 
 []{#Figure_10_2__MongoDB_Atlas_Clust .anchor}![A screenshot of MongoDB
 Atlas\'s Cluster
-Screen](./images/media/jsev_1002.png){width="6.166666666666667in"
+Screen](./images/jsev_1002.png){width="6.166666666666667in"
 height="7.5in"}
 
 #### Figure 10-2. MongoDB Atlas Cluster
@@ -11884,7 +11884,7 @@ password for accessing the data ([Figure
 
 []{#Figure_10_3__MongoDB_Atlas_IP_wh .anchor}![A screenshot of MongoDB
 Atlas\'s IP whitelist and user
-prompt](./images/media/jsev_1003.png){width="6.166666666666667in"
+prompt](./images/jsev_1003.png){width="6.166666666666667in"
 height="7.305555555555555in"}
 
 #### Figure 10-3. MongoDB Atlas IP whitelist and user account management
@@ -11896,7 +11896,7 @@ case, it will be an "Application" connection ([Figure
 
 []{#Figure_10_4__Selecting_a_connect .anchor}![A screenshot of the
 connection type selection in MongoDB
-Atlas](./images/media/jsev_1004.png){width="6.166666666666667in"
+Atlas](./images/jsev_1004.png){width="6.166666666666667in"
 height="6.083333333333333in"}
 
 #### Figure 10-4. Selecting a connection type in MongoDB Atlas
@@ -11907,7 +11907,7 @@ our production *.env* file ([Figure
 
 []{#Figure_10_5__MongoDB_Atlas_s_dat .anchor}![A screenshot of the
 connection string in MongoDB
-Atlas](./images/media/jsev_1005.png){width="6.166666666666667in"
+Atlas](./images/jsev_1005.png){width="6.166666666666667in"
 height="6.708333333333333in"}
 
 #### Figure 10-5. MongoDB Atlas's database connection string
@@ -11957,7 +11957,7 @@ Create New App ([Figure 10-6](#Figure_10_6__The_Heroku_New_App)).
 
 []{#Figure_10_6__The_Heroku_New_App .anchor}![A screenshot of the Heroku
 new app
-dialog](./images/media/jsev_1006.png){width="3.7777777777777777in"
+dialog](./images/jsev_1006.png){width="3.7777777777777777in"
 height="1.4722222222222223in"}
 
 #### Figure 10-6. The Heroku New App dialog
@@ -11969,7 +11969,7 @@ anywhere you see YOUR_APP_NAME.
 
 []{#Figure_10_7__Provide_a_unique_ap .anchor}![A screenshot of the
 Heroku app name
-screen](./images/media/jsev_1007.png){width="6.166666666666667in"
+screen](./images/jsev_1007.png){width="6.166666666666667in"
 height="5.0in"}
 
 #### Figure 10-7. Provide a unique application name
@@ -11987,7 +11987,7 @@ DB_HOST YOUR_MONGO_ATLAS_URL
 
 []{#Figure_10_8__Heroku_s_environmen .anchor}![Screenshot of the Heroku
 environment variable
-configuration](./images/media/jsev_1008.png){width="6.166666666666667in"
+configuration](./images/jsev_1008.png){width="6.166666666666667in"
 height="6.027777777777778in"}
 
 #### Figure 10-8. Heroku's environment variable configuration
@@ -12180,7 +12180,7 @@ Our React application will now be visible in our browser at
 
 []{#Figure_11_1__Typing_npm_start_wi .anchor}![A screenshot of
 create-react-app running locally in the
-browser](./images/media/jsev_1101.png){width="6.166666666666667in"
+browser](./images/jsev_1101.png){width="6.166666666666667in"
 height="6.652777777777778in"}
 
 #### Figure 11-1. Typing npm start will launch the default create-react-app in the browser
@@ -12888,7 +12888,7 @@ rest of our application ([Figure
 
 []{#Figure_11_2__Clicking_the_button .anchor}![A screenshot of our React
 application rendering the Sparkle.js
-component](./images/media/jsev_1102.png){width="6.166666666666667in"
+component](./images/jsev_1102.png){width="6.166666666666667in"
 height="4.027777777777778in"}
 
 #### Figure 11-2. Clicking the button updates the component state and adds content to our page
@@ -13328,7 +13328,7 @@ view the page ([Figure 12-1](#Figure_12_1__Our_initial_React_a)).
 
 []{#Figure_12_1__Our_initial_React_a .anchor}![A screenshot of our React
 application running in the
-browser](./images/media/jsev_1201.png){width="6.166666666666667in"
+browser](./images/jsev_1201.png){width="6.166666666666667in"
 height="5.527777777777778in"}
 
 #### Figure 12-1. Our initial React application running in the browser
@@ -14598,7 +14598,7 @@ Home\
 
 []{#Figure_12_2__With_React_componen .anchor}![A screenshot of our web
 application, featuring the imported
-components](./images/media/jsev_1202.png){width="6.166666666666667in"
+components](./images/jsev_1202.png){width="6.166666666666667in"
 height="4.138888888888889in"}
 
 #### Figure 12-2. With React components we're able to easily compose shareable UI features
@@ -14651,7 +14651,7 @@ components within it.
 
 []{#Figure_13_1__A_wireframe_of_our .anchor}![A wireframe depicting a
 header, sidebar navigation, and main content
-area](./images/media/jsev_1301.png){width="6.166666666666667in"
+area](./images/jsev_1301.png){width="6.166666666666667in"
 height="4.222222222222222in"}
 
 #### Figure 13-1. A wireframe of our page layout
@@ -15674,7 +15674,7 @@ changed, the links have a new style, and the margins have been removed
 
 []{#Figure_13_2__Our_application_now .anchor}![A screenshot of our
 application running in the browser with global styles
-applied](./images/media/jsev_1302.png){width="6.166666666666667in"
+applied](./images/jsev_1302.png){width="6.166666666666667in"
 height="3.2222222222222223in"}
 
 #### Figure 13-2. Our application now has global styles applied
@@ -16291,7 +16291,7 @@ can apply styles as we create individual components.
 
 []{#Figure_13_3__Our_application_wit .anchor}![A screenshot of our
 application with our styled components styles
-applied](./images/media/jsev_1303.png){width="6.166666666666667in"
+applied](./images/jsev_1303.png){width="6.166666666666667in"
 height="6.458333333333333in"}
 
 #### Figure 13-3. Our application with styles applied
@@ -16870,7 +16870,7 @@ any of the notes in our database ([Figure
 
 []{#Figure_14_1__Our_noteFeed_query .anchor}![A screenshot of the
 noteFeed query in GraphQL
-Playground](./images/media/jsev_1401.png){width="6.166666666666667in"
+Playground](./images/jsev_1401.png){width="6.166666666666667in"
 height="7.027777777777778in"}
 
 #### Figure 14-1. Our noteFeed query in the GraphQL Playground
@@ -17104,7 +17104,7 @@ guidepost when integrating the data into the application.
 
 []{#Figure_14_2__If_our_data_has_bee .anchor}![A screenshot of the
 application, successfully connected to the data
-set](./images/media/jsev_1402.png){width="6.166666666666667in"
+set](./images/jsev_1402.png){width="6.166666666666667in"
 height="7.888888888888889in"}
 
 #### Figure 14-2. If our data has been successfully fetched, our component will display a "The data loaded!" message and the data will print to the console
@@ -17275,7 +17275,7 @@ on the page ([Figure 14-3](#Figure_14_3__Usernames_from_our)).
 
 []{#Figure_14_3__Usernames_from_our .anchor}![Usernames from our data,
 printed to the
-screen](./images/media/jsev_1403.png){width="6.166666666666667in"
+screen](./images/jsev_1403.png){width="6.166666666666667in"
 height="4.888888888888889in"}
 
 #### Figure 14-3. Usernames from our data, printed to the screen
@@ -20631,14 +20631,14 @@ Additionally, if you perform a users query in the GraphQL Playground
 
 []{#Figure_15_1__If_successful__a_JS .anchor}![A screenshot of our form
 and a JSON Web Token in the
-console](./images/media/jsev_1501.png){width="6.166666666666667in"
+console](./images/jsev_1501.png){width="6.166666666666667in"
 height="5.111111111111111in"}
 
 #### Figure 15-1. If successful, a JSON Web Token will print to our console when we submit the form
 
 []{#Figure_15_2__We_can_also_see_a_l .anchor}![A screenshot of the users
 query and results in GraphQL
-Playground](./images/media/jsev_1502.png){width="6.166666666666667in"
+Playground](./images/jsev_1502.png){width="6.166666666666667in"
 height="5.930555555555555in"}
 
 #### Figure 15-2. We can also see a list of users by performing a users query in the GraphQL Playground
@@ -20717,7 +20717,7 @@ signUp\
 
 []{#Figure_15_3__Our_web_token_is_no .anchor}![A screenshot of our token
 in the browser\'s
-localStorage](./images/media/jsev_1503.png){width="6.166666666666667in"
+localStorage](./images/jsev_1503.png){width="6.166666666666667in"
 height="5.319444444444445in"}
 
 #### Figure 15-3. Our web token is now stored in the browser's localStorage
@@ -24448,7 +24448,7 @@ display our form ([Figure 16-1](#Figure_16_1__Our_NewNote_compone)).
 
 []{#Figure_16_1__Our_NewNote_compone .anchor}![A screenshot of the note
 form
-component](./images/media/jsev_1601.png){width="6.166666666666667in"
+component](./images/jsev_1601.png){width="6.166666666666667in"
 height="7.263888888888889in"}
 
 #### Figure 16-1. Our NewNote component presents the user with a large text area and Save button
@@ -27539,7 +27539,7 @@ With this change, only the note's original author will see the edit link
 in the UI ([Figure 16-2](#Figure_16_2__Only_the_note_s_aut)).
 
 []{#Figure_16_2__Only_the_note_s_aut .anchor}![A screenshot of the edit
-link](./images/media/jsev_1602.png){width="6.166666666666667in"
+link](./images/jsev_1602.png){width="6.166666666666667in"
 height="6.277777777777778in"}
 
 #### Figure 16-2. Only the note's author will see the edit link
@@ -29043,7 +29043,7 @@ FavoriteNote\
 
 []{#Figure_16_3__A_logged_in_user_wi .anchor}![A screenshot of the
 application with links to create, update, read, and delete a
-note.](./images/media/jsev_1603.png){width="6.166666666666667in"
+note.](./images/jsev_1603.png){width="6.166666666666667in"
 height="7.111111111111111in"}
 
 #### Figure 16-3. A logged-in user will be able to create, read, update, and delete notes
@@ -29177,7 +29177,7 @@ as shown in [Figure 17-1](#Figure_17_1__Our_deployment_proc).
 []{#Figure_17_1__Our_deployment_proc .anchor}![A diagram of our
 deployment process. Each commit is pushed to GitHub, then built by
 Netlify, and finally pushed to a public web
-server.](./images/media/jsev_1701.png){width="6.166666666666667in"
+server.](./images/jsev_1701.png){width="6.166666666666667in"
 height="3.6666666666666665in"}
 
 #### Figure 17-1. Our deployment process
@@ -29205,7 +29205,7 @@ and click the Create Repository button ([Figure
 
 []{#Figure_17_2__GitHub_s_new_reposi .anchor}![A screenshot of GitHub\'s
 new repository
-page](./images/media/jsev_1702.png){width="6.166666666666667in"
+page](./images/jsev_1702.png){width="6.166666666666667in"
 height="7.666666666666667in"}
 
 #### Figure 17-2. GitHub's new repository page
@@ -29275,7 +29275,7 @@ initial data load will be slow while the container spins back up.
 
 []{#Figure_17_3__With_Netlify_we_can .anchor}![A screenshot of the
 Netlify deployment
-configuration](./images/media/jsev_1703.png){width="6.166666666666667in"
+configuration](./images/jsev_1703.png){width="6.166666666666667in"
 height="7.458333333333333in"}
 
 #### Figure 17-3. With Netlify we can configure our build process and environment variables
@@ -29618,7 +29618,7 @@ environment version of our application (see [Figure
 
 []{#Figure_18_1__Running_the_start_c .anchor}![An image of our \'Hello
 World\' Electron
-application](./images/media/jsev_1801.png){width="6.166666666666667in"
+application](./images/jsev_1801.png){width="6.166666666666667in"
 height="6.180555555555555in"}
 
 #### Figure 18-1. Running the start command will launch our "Hello World" Electron application
@@ -29785,7 +29785,7 @@ openDevTools\
 
 []{#Figure_18_2__Now_when_we_open_ou .anchor}![A screenshot of our
 \'Hello World\' application with the browser\'s dev tools
-open](./images/media/jsev_1802.png){width="6.166666666666667in"
+open](./images/jsev_1802.png){width="6.166666666666667in"
 height="6.166666666666667in"}
 
 #### Figure 18-2. Now when we open our application during development, the browser dev tools will automatically open
@@ -29915,7 +29915,7 @@ a large number of warnings and errors. Let's look at each of these (see
 
 []{#Figure_19_1__Our_application_is .anchor}![A screenshot of our
 application and the errors printed to the developer
-console](./images/media/jsev_1901.png){width="6.166666666666667in"
+console](./images/jsev_1901.png){width="6.166666666666667in"
 height="6.0in"}
 
 #### Figure 19-1. Our application is running, but displays a large number of errors and warnings
@@ -29933,7 +29933,7 @@ then uncheck "Enable JavaScript source maps" (see [Figure
 
 []{#Figure_19_2__Disabling_source_ma .anchor}![A screenshot of the
 developer tools
-settings](./images/media/jsev_1902.png){width="6.166666666666667in"
+settings](./images/jsev_1902.png){width="6.166666666666667in"
 height="5.986111111111111in"}
 
 #### Figure 19-2. Disabling source maps will reduce the number of errors and warnings
@@ -30550,7 +30550,7 @@ running within an Electron shell (shown in [Figure
 
 []{#Figure_19_3__Our_web_application .anchor}![A screenshot of our final
 desktop
-application](./images/media/jsev_1903.png){width="6.166666666666667in"
+application](./images/jsev_1903.png){width="6.166666666666667in"
 height="5.013888888888889in"}
 
 #### Figure 19-3. Our web application running within an Electron application shell
@@ -30779,7 +30779,7 @@ with our custom application icons (see [Figure
 20-1](#Figure_20_1__Our_custom_applicat)).
 
 []{#Figure_20_1__Our_custom_applicat .anchor}![A screenshot of the macOS
-dock icon](./images/media/jsev_2001.png){width="2.2083333333333335in"
+dock icon](./images/jsev_2001.png){width="2.2083333333333335in"
 height="1.25in"}
 
 #### Figure 20-1. Our custom application icon in the macOS dock
@@ -31003,7 +31003,7 @@ QR code ([Figure 21-1](#Figure_21_1__Expo_s_Metro_Bundle)).
 
 []{#Figure_21_1__Expo_s_Metro_Bundle .anchor}![A screenshot of Expo\'s
 Metro Bundler
-application](./images/media/jsev_2101.png){width="6.166666666666667in"
+application](./images/jsev_2101.png){width="6.166666666666667in"
 height="7.305555555555555in"}
 
 #### Figure 21-1. Expo's Metro Bundler after launching our application
@@ -31020,7 +31020,7 @@ development, I recommend starting with your own physical device.
 
 []{#Figure_21_2__Our_application_run .anchor}![A screenshot of iOS and
 Android device
-simulators](./images/media/jsev_2102.png){width="6.166666666666667in"
+simulators](./images/jsev_2102.png){width="6.166666666666667in"
 height="8.305555555555555in"}
 
 #### Figure 21-2. Our application running side by side on iOS and Android device simulators
@@ -31033,7 +31033,7 @@ and clicking the Projects tab ([Figure
 
 []{#Figure_21_3__With_Expo_Client__w .anchor}![A photo of the
 application running on a physical
-device](./images/media/jsev_2103.png){width="4.666666666666667in"
+device](./images/jsev_2103.png){width="4.666666666666667in"
 height="5.652777777777778in"}
 
 #### Figure 21-3. With Expo Client, we can preview our application on a physical device
@@ -31302,7 +31302,7 @@ properties that are made available to each element.
 
 []{#Figure_22_1__Using_the__Image__t .anchor}![A screenshot of an iPhone
 simulator demonstrating our app with an
-image](./images/media/jsev_2201.png){width="4.166666666666667in"
+image](./images/jsev_2201.png){width="4.166666666666667in"
 height="8.36111111111111in"}
 
 #### Figure 22-1. Using the \<Image\> tag we can add images to our application (photo by [Windell Oskay](https://oreil.ly/lkW3F))
@@ -31437,7 +31437,7 @@ require\
 
 []{#Figure_22_2__Using_styles_we_can .anchor}![A screenshot of the hello
 world app with styled
-text](./images/media/jsev_2202.png){width="4.166666666666667in"
+text](./images/jsev_2202.png){width="4.166666666666667in"
 height="8.375in"}
 
 #### Figure 22-2. Using styles we can adjust the look of our \<Text\> element
@@ -31662,7 +31662,7 @@ its use cases for arranging elements on the screen.
 
 []{#Figure_22_3__By_using_stylesheet .anchor}![A screenshot of our
 application with additional styles
-applied](./images/media/jsev_2203.png){width="4.194444444444445in"
+applied](./images/jsev_2203.png){width="4.194444444444445in"
 height="8.38888888888889in"}
 
 #### Figure 22-3. By using stylesheets we can scale the styles of our application
@@ -32449,7 +32449,7 @@ appropriate screen ([Figure 22-4](#Figure_22_4__We_can_now_navigate)).
 
 []{#Figure_22_4__We_can_now_navigate .anchor}![A screenshot of our
 application with tab based
-navigation](./images/media/jsev_2204.png){width="4.208333333333333in"
+navigation](./images/jsev_2204.png){width="4.208333333333333in"
 height="8.347222222222221in"}
 
 #### Figure 22-4. We can now navigate between screens with tabbed navigation
@@ -33303,7 +33303,7 @@ the arrow to return ([Figure 22-5](#Figure_22_5__Clicking_the_button)).
 
 []{#Figure_22_5__Clicking_the_button .anchor}![A screenshot of the Feed
 and Note
-screen](./images/media/jsev_2205.png){width="6.166666666666667in"
+screen](./images/jsev_2205.png){width="6.166666666666667in"
 height="8.38888888888889in"}
 
 #### Figure 22-5. Clicking the button link will navigate to the new screen, while clicking the arrow will return the user to the previous screen
@@ -33429,7 +33429,7 @@ Now each of our screens will include a title in the top navigation bar
 
 []{#Figure_22_6__Setting_the_title_i .anchor}![A screenshot of our app
 with a top navigation
-title](./images/media/jsev_2206.png){width="4.152777777777778in"
+title](./images/jsev_2206.png){width="4.152777777777778in"
 height="8.347222222222221in"}
 
 #### Figure 22-6. Setting the title in navigationOptions will add it to the top nav bar
@@ -33723,7 +33723,7 @@ With this, our tabbed navigation will display icons ([Figure
 
 []{#Figure_22_7__Our_application_s_n .anchor}![A screenshot of the
 application including navigation
-icons](./images/media/jsev_2207.png){width="4.166666666666667in"
+icons](./images/jsev_2207.png){width="4.166666666666667in"
 height="8.333333333333334in"}
 
 #### Figure 22-7. Our application's navigation now includes icons
@@ -35006,7 +35006,7 @@ NoteFeed\
 
 []{#Figure_23_1__Using_FlatList_we_c .anchor}![A screenshot of the app
 with a list of
-data](./images/media/jsev_2301.png){width="4.152777777777778in"
+data](./images/jsev_2301.png){width="4.152777777777778in"
 height="8.38888888888889in"}
 
 #### Figure 23-1. Using FlatList we can display a list of data
@@ -36212,7 +36212,7 @@ API displayed in a list, as shown in [Figure
 
 []{#Figure_23_2__Our_API_data_displa .anchor}![A screenshot of the API
 data present in the application\'s feed
-view](./images/media/jsev_2302.png){width="4.166666666666667in"
+view](./images/jsev_2302.png){width="4.166666666666667in"
 height="8.38888888888889in"}
 
 #### Figure 23-2. Our API data displaying in our feed view
@@ -36633,7 +36633,7 @@ content of the note (see [Figure
 
 []{#Figure_23_3__With_our_GraphQL_qu .anchor}![Screenshots of the feed
 list and the note detail
-screen](./images/media/jsev_2303.png){width="6.166666666666667in"
+screen](./images/jsev_2303.png){width="6.166666666666667in"
 height="8.38888888888889in"}
 
 #### Figure 23-3. With our GraphQL queries written, we can navigate between screens to view note previews and full notes
@@ -36791,7 +36791,7 @@ indicator when our API data is loading (see [Figure
 
 []{#Figure_23_4__Using_ActivityIndic .anchor}![A screenshot of the
 application in a loading
-state](./images/media/jsev_2304.png){width="4.166666666666667in"
+state](./images/jsev_2304.png){width="4.166666666666667in"
 height="8.38888888888889in"}
 
 #### Figure 23-4. Using ActivityIndicator, we can add an operating system--appropriate loading spinner
@@ -38394,7 +38394,7 @@ SignIn\
 
 []{#Figure_24_1__Clicking_the_button .anchor}![A screenshot of the
 temporary sign in
-screen](./images/media/jsev_2401.png){width="4.180555555555555in"
+screen](./images/jsev_2401.png){width="4.180555555555555in"
 height="8.347222222222221in"}
 
 #### Figure 24-1. Clicking the button will store a token and route the user to the application
@@ -38561,7 +38561,7 @@ Settings\
 ;
 
 []{#Figure_24_2__Clicking_the_button .anchor}![A screenshot of the
-setting screen](./images/media/jsev_2402.png){width="4.125in"
+setting screen](./images/jsev_2402.png){width="4.125in"
 height="8.36111111111111in"}
 
 #### Figure 24-2. Clicking the button will remove the token from the device and return the user to the sign-in screen
@@ -39798,7 +39798,7 @@ Let's now implement the form's functionality.
 
 []{#Figure_24_3__Our_sign_in_form_wi .anchor}![A screenshot of the
 completed sign in
-form](./images/media/jsev_2403.png){width="4.166666666666667in"
+form](./images/jsev_2403.png){width="4.166666666666667in"
 height="8.23611111111111in"}
 
 #### Figure 24-3. Our sign-in form with custom styles
@@ -41007,7 +41007,7 @@ Favorites\
 ;
 
 []{#Figure_24_4__Passing_the_token_i .anchor}![An image of a cartoonish
-tiger head](./images/media/jsev_2404.png){width="4.138888888888889in"
+tiger head](./images/jsev_2404.png){width="4.138888888888889in"
 height="8.36111111111111in"}
 
 #### Figure 24-4. Passing the token in the header of each request allows us to make user-specific queries in our application
@@ -42506,7 +42506,7 @@ with our application ([Figure 24-5](#Figure_24_5__A_user_can_now_regi)).
 
 []{#Figure_24_5__A_user_can_now_regi .anchor}![A screenshot of the
 completed sign in and sign up
-screens](./images/media/jsev_2405.png){width="6.166666666666667in"
+screens](./images/jsev_2405.png){width="6.166666666666667in"
 height="8.375in"}
 
 #### Figure 24-5. A user can now register an account and navigate between the authentication screens
@@ -42933,7 +42933,7 @@ subtle gradient, let's set our resizeMode to cover:
 
 []{#Figure_25_1__Our_application_spl .anchor}![A screenshot of our
 application\'s splash
-screen](./images/media/jsev_2501.png){width="4.263888888888889in"
+screen](./images/jsev_2501.png){width="4.263888888888889in"
 height="8.375in"}
 
 #### Figure 25-1. Our application splash screen
@@ -42960,7 +42960,7 @@ terminal.
 
 []{#Figure_25_2__We_can_publish_our .anchor}![A screenshot of the Expo
 Dev Tool\'s publish
-screen.](./images/media/jsev_2502.png){width="6.166666666666667in"
+screen.](./images/jsev_2502.png){width="6.166666666666667in"
 height="7.930555555555555in"}
 
 #### Figure 25-2. We can publish our application directly from Expo Dev Tools
