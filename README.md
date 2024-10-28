@@ -33,18 +33,20 @@ output:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ about js everywhere ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="#about">About this Course</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-JavaScript is Everywhere
+<h3>JavaScript is Everywhere</h3>
 As the most popular programming language in the world,
 JavaScript is used on an estimated 95% of all websites. This
 makes it an in-demand skill for web developers and a
 valuable asset for anyone looking to work in the tech
 industry.
-JavaScript is Versatile
+
+<h3>JavaScript is Versatile</h3>
 JavaScript can be used to build all kinds of web applications,
 from simple websites to complex, data-driven web apps. It
 can also be used to build mobile apps and desktop
 applications using tools like Cordova and Electron.
-JavaScript is Constantly Evolving
+
+<h3>JavaScript is Constantly Evolving</h3>
 The tech industry is constantly evolving, and JavaScript is no
 exception. New frameworks and libraries are being
 developed all the time, which means there is always
